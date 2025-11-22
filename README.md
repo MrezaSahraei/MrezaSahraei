@@ -34,11 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" />
 </p>
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/DRF-API-red?style=for-the-badge&logo=djangorestframework)
-![JWT](https://img.shields.io/badge/JWT-Authentication-blueviolet?style=for-the-badge&logo=jsonwebtokens)
-![AJAX](https://img.shields.io/badge/AJAX-Async%20Requests-0d6efd?style=for-the-badge&logo=javascript&logoColor=yellow)
+
 ---
 
 ## 🚀 Featured Projects
