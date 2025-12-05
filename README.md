@@ -71,16 +71,17 @@
 🔹 Expense, income & budget tracking  
 🔹 Category system  
 🔹 API-based architecture
-🔹Advanced monthly and yearly reporting
+🔹 Advanced monthly and yearly reporting
 🔹 JWT auth
 
 🔗 Repo: **Dakhl_o_kharj_API**
+
+---
 
 ### 🛒 One_second_shop(API) (in progress)
 
   🔗 Repo: **one_second_shop_API**
 
-  
 ---
 
 ## 📊 GitHub Stats
