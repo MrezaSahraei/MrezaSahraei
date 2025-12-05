@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 About Me
-- 🚀 Currently building **Dakhl o Kharj API** — a personal finance management system using DRF & PostgreSQL
+- 🚀 Currently building **one_second_shop_API** — a scalable watch store  using DRF & PostgreSQL
 - 🧱 Strong focus on **backend development**, authentication systems, and clean architecture
 - ⚙️ Turning real ideas into real products — from database design to API deployment
 - 🧠 Always learning: API design, scalability, best practices
@@ -67,13 +67,20 @@
 
 ---
 
-### 💰 Dakhl o Kharj (in progress)
-🔹 Expense & income tracking  
+### 💰 Dakhl o Kharj(API)
+🔹 Expense, income & budget tracking  
 🔹 Category system  
-🔹 API-based architecture   
+🔹 API-based architecture
+🔹Advanced monthly and yearly reporting
+🔹 JWT auth
 
-🔗 Repo: **Dakhl_o_kharj_project**
+🔗 Repo: **Dakhl_o_kharj_API**
 
+### 🛒 One_second_shop(API) (in progress)
+
+  🔗 Repo: **one_second_shop_API**
+
+  
 ---
 
 ## 📊 GitHub Stats
@@ -88,6 +95,7 @@
 ## 📫 Contact Me
 📌 Telegram: @mreza_roman
 📧 Email: mo.reza.sahraei@gmail.com
+🧑‍💼 Linkdin: https://www.linkedin.com/in/mohammadreza-sahraei-1016a5229/
 
 ---
 
